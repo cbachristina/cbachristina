@@ -1,5 +1,11 @@
-## Hi there 👋
+<p align="center">
+  hi, i'm christina <br>
+  co '27
+</p>
 
+<p align="center">
+  currently: doing mini-projects combining music and cognition
+</p>
 <!--
 **cbachristina/cbachristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
