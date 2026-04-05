@@ -1,5 +1,5 @@
 <p align="center">
-  i like scuba diving in my guitar
+  i like scuba diving & my guitar
 </p>
 
 <p align="center">
