@@ -1,6 +1,5 @@
 <p align="center">
-  i like playing guitar and piano <br>
-  fun fact: i scuba dive 😳
+  i like scuba diving in my guitar
 </p>
 
 <p align="center">
