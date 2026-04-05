@@ -1,6 +1,6 @@
 <p align="center">
-  hi, i'm christina <br>
-  co '27
+  i like playing guitar and piano
+  fun fact i scuba dive 😳
 </p>
 
 <p align="center">
