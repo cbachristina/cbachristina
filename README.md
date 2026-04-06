@@ -2,10 +2,6 @@
   i like scuba diving & my guitar
 </p>
 
-<p align="center">
-  currently: doing mini-projects combining music and cognition
-</p>
-<!--
 **cbachristina/cbachristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
